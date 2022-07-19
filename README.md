@@ -15,7 +15,8 @@ __[Grey -  Green - Cyan - Blue - Yellow]__
 
 * __README.md__ = 問題のstatementです.
 
-##　一部存在するもの
+
+## 一部存在するもの
 
 * __EDITORIAL.md__ = 問題に対するeditorialです.
 * __solution/__ 解答コードを載せたディレクトリです.
