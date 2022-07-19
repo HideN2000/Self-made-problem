@@ -1,2 +1,21 @@
 # Self-made-problem
-This is the repository where I save my self-made-problem.
+
+過去自分の作ったプログラミング問題の一覧です.
+
+__[Grey -  Green - Cyan - Blue - Yellow]__
+
+という5つの難易度ごとに問題をグループ化しています.
+
+後半に行くほど必要な知識レベルが上がってゆく傾向にあります.
+
+各問題は独立した対応するレベル名に応じたディレクトリに入っており,さらに,それぞれの問題の名前に応じたタスクの中に以下の構成で保存されています.
+
+---
+## 必ず存在するもの
+
+* __README.md__ = 問題のstatementです.
+
+##　一部存在するもの
+
+* __EDITORIAL.md__ = 問題に対するeditorialです.
+* __solution/__ 解答コードを載せたディレクトリです.
